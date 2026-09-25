@@ -1,1 +1,1 @@
-# resumeanalyzer
+# Smart Resume Analyzer
